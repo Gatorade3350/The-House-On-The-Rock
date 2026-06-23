@@ -1,35 +1,31 @@
 <!doctype html>
-<html lang="en-US">
-<!-- Auto-generated index copied from `Old` to publish via GitHub Pages -->
-<!-- If you prefer a different entry point, update `.github/workflows/deploy-pages.yml` -->
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <title>House on the Rock - Wisconsin Attraction | Resort | Golf</title>
-    <!-- Original site HTML follows -->
-</head>
-<body>
-<!-- The full HTML content from the `Old` file has been copied here. -->
-<!-- For brevity this file references remote assets on the original site. -->
-
-<!-- Begin content (trimmed) -->
-<div id="messages-header">
-    <p>Please Note: We are currently experiencing issues with our main phone lines.  We are open with regular hours.</p>
-</div>
-<div class="" id="mobile-menu"><ul id="menu-main-navigation-menu" class="nav navbar-nav"><li id="menu-item-54" class="exhibit menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-54"><a href="https://www.thehouseontherock.com/exhibits/">Visit &amp; Tour Info</a><span class="wrap-fa"><i class="fa fa-plus"></i></span>
-<!-- Note: this index references external CSS/JS from the live site -->
-</ul></div>
-
-<main>
-    <h1>House on the Rock (static copy)</h1>
-    <p>This is a static copy of the original site's homepage saved as index.html so GitHub Pages can serve it.</p>
-    <p>Many assets (CSS, JS, images) are loaded from the original website and therefore require internet access.</p>
-</main>
-
-<footer>
-    <p>Copyright © 2026 House on the Rock. All rights reserved.</p>
-</footer>
-
-</body>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>House on the Rock — Static</title>
+    <meta name="description" content="Static wrapper that loads the `Old` HTML file to serve the site on GitHub Pages">
+    <style>body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;margin:2rem;color:#222}</style>
+  </head>
+  <body>
+    <h1>House on the Rock — Loading site...</h1>
+    <p>If you see this message for more than a couple seconds, the site failed to load.</p>
+    <script>
+      // Fetch and replace the document with the contents of `Old`.
+      fetch('Old')
+        .then(function(resp){
+          if(!resp.ok) throw new Error(resp.status + ' ' + resp.statusText);
+          return resp.text();
+        })
+        .then(function(html){
+          document.open();
+          document.write(html);
+          document.close();
+        })
+        .catch(function(err){
+          document.body.innerHTML = '<h1>Failed to load site</h1><pre>' + err + '</pre>';
+          console.error(err);
+        });
+    </script>
+  </body>
 </html>
