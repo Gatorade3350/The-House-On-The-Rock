@@ -7,9 +7,8 @@
         {
             "type": "editor-browser",
             "request": "launch",
-            "name": "Open Website",
-            "preLaunchTask": "Serve Website",
-            "url": "http://127.0.0.1:8000/index.html"
+            "name": "Open OG",
+            "url": "file:///c%3A/Users/aidew/Documents/GitHub/The%20House%20On%20The%20Rock/OG"
         }
     ]
 }

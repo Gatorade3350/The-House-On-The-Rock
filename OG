@@ -1,14 +1,14 @@
-﻿<html lang="en-US"><head>
+<html lang="en-US"><head>
 		<meta charset="UTF-8">	
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 		<title>House on the Rock - Wisconsin Attraction | Resort | Golf</title>
 		<link rel="profile" href="http://gmpg.org/xfn/11">
-		<link rel="apple-touch-icon" sizes="180x180" href="https://www.thehouseontherock.com/favicons/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="https://www.thehouseontherock.com/favicons/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="https://www.thehouseontherock.com/favicons/favicon-16x16.png">
-		<link rel="manifest" href="https://www.thehouseontherock.com/favicons/site.webmanifest">
-		<link rel="mask-icon" href="https://www.thehouseontherock.com/favicons/safari-pinned-tab.svg" color="#04265a">
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+		<link rel="manifest" href="/favicons/site.webmanifest">
+		<link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#04265a">
 		<meta name="msapplication-TileColor" content="#04265a">
 		<meta name="theme-color" content="#ffffff">
 		<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
@@ -29,7 +29,7 @@
 
 
 		<!-- This site uses the Google Analytics by MonsterInsights plugin v10.2.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-							<script src="https://www.googletagmanager.com/gtag/js?id=G-SWPCFXK0VS" data-cfasync="false" data-wpfc-render="false" type="text/javascript" async=""></script>
+							<script src="//www.googletagmanager.com/gtag/js?id=G-SWPCFXK0VS" data-cfasync="false" data-wpfc-render="false" type="text/javascript" async=""></script>
 			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
 				var mi_version = '10.2.2';
 				var mi_track_user = true;
@@ -344,7 +344,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
 
 	<div class="flex wrapper">
 		<div class="logo">
-			<a href="https://www.thehouseontherock.com/"><img src="https://www.thehouseontherock.com/wp-content/themes/houseonrock/images/Logo@2x.png" data-rjs="2" alt="House on the Rock"></a>
+			<a href="/"><img src="https://www.thehouseontherock.com/wp-content/themes/houseonrock/images/Logo@2x.png" data-rjs="2" alt="House on the Rock"></a>
 		</div>
 		
 		<div class="right">
@@ -463,7 +463,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
                         </div>
                     </div>
                     <div class="col-lg-6 tickets">
-                        <a href="https://www.thehouseontherock.com/buy-tickets" class="btn btn-tickets" tabindex="-1">Buy your tickets today</a>
+                        <a href="/buy-tickets" class="btn btn-tickets" tabindex="-1">Buy your tickets today</a>
                     </div>
                 </div>
             </div><div class="slick-item slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 959px; position: relative; left: -959px; top: 0px; z-index: 999; opacity: 1;" tabindex="0">
@@ -475,7 +475,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
                         </div>
                     </div>
                     <div class="col-lg-6 tickets">
-                        <a href="https://www.thehouseontherock.com/buy-tickets" class="btn btn-tickets" tabindex="0">Buy your tickets today</a>
+                        <a href="/buy-tickets" class="btn btn-tickets" tabindex="0">Buy your tickets today</a>
                     </div>
                 </div>
             </div><div class="slick-item slick-slide" data-slick-index="2" aria-hidden="true" style="width: 959px; position: relative; left: -1918px; top: 0px; z-index: 998; opacity: 0; transition: opacity 500ms;" tabindex="-1">
@@ -487,7 +487,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
                         </div>
                     </div>
                     <div class="col-lg-6 tickets">
-                        <a href="https://www.thehouseontherock.com/buy-tickets" class="btn btn-tickets" tabindex="-1">Buy your tickets today</a>
+                        <a href="/buy-tickets" class="btn btn-tickets" tabindex="-1">Buy your tickets today</a>
                     </div>
                 </div>
             </div></div></div>
@@ -546,13 +546,13 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
                 </div>
                 <div class="col-lg-4 info">
                     <div class="location-hours">
-                        <img src="https://www.thehouseontherock.com/wp-content/themes/houseonrock/images/plane.png">
+                        <img src="/wp-content/themes/houseonrock/images/plane.png">
                         <h4><i class="fas fa-map-marker-alt"></i> Location:</h4>
                         <p>5754 State Road 23<br>Spring Green, WI 53588</p>
                         <h4><i class="fas fa-clock"></i> Summer Hours:</h4>
                         <p>Open Daily<br><br></p>
                                                 <h6>We recommend that you allow at least 3 hours for the Ultimate Experience. We recommend that our Guests arrive no later than 2 pm for the Ultimate Experience.  Arriving later in the day will limit your admission options and you may need to move through the complex more quickly than you would like. Certain areas begin to close as early as 2 pm and other routes may be shortened. The last admittance to the complex for the Ultimate Experience admission is at 3:00 pm.   All on-site ticket sales end and the last admittance to the complex is at 4:00 pm.  The complex completely closes at 5:00 pm.  PLEASE NOTE:  Visitors must make advance arrangements to be picked-up or dropped-off as Taxis, Uber and Lyft are not available in our area.</h6>
-                        <a class="btn btn-primary" href="https://www.thehouseontherock.com/contact">Contact Us</a>
+                        <a class="btn btn-primary" href="/contact">Contact Us</a>
                     </div>
                 </div>
             </div>
@@ -567,7 +567,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
 			<div class="col-lg-6 quote">
 							</div>
 			<div class="col-lg-6 featured" style="background-image: url(https://www.thehouseontherock.com/wp-content/uploads/2020/08/HouseOnTheRock_27JUL20_5274-1carousel.jpg);">
-				<img src="https://www.thehouseontherock.com/wp-content/themes/houseonrock/images/car.png">
+				<img src="/wp-content/themes/houseonrock/images/car.png">
 			</div>
 		</div>
 	</div>
@@ -719,7 +719,7 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
 
 		<div class="row copyright">
 			<div class="col-12">
-				<h5>Copyright Â© 2026 House on the Rock. All rights reserved.</h5>
+				<h5>Copyright © 2026 House on the Rock. All rights reserved.</h5>
 			</div>
 		</div>
 
@@ -735,8 +735,8 @@ var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions
 	 		$(".exhibit .dropdown-menu").toggleClass("active");
 	 	})
 	});
-</script>		<link rel="stylesheet" id="pk-fonts-css" href="https://fonts.googleapis.com/css?family=Lato%3A400%2C400i%2C700%7CMerriweather%3A400%2C700&amp;ver=6.3.8" type="text/css" media="all">
+</script>		<link rel="stylesheet" id="pk-fonts-css" href="//fonts.googleapis.com/css?family=Lato%3A400%2C400i%2C700%7CMerriweather%3A400%2C700&amp;ver=6.3.8" type="text/css" media="all">
 <script type="text/javascript" src="https://www.thehouseontherock.com/wp-content/plugins/pk-swiss-army-knife/tools/retina/js/retina.min.js?ver=1" id="pk-retina-js-js"></script>
 <script type="text/javascript" src="https://www.thehouseontherock.com/wp-content/plugins/pk-swiss-army-knife/tools/lity/js/lity.min.js?ver=1" id="pll-js-js"></script>
-<!--[if lt IE 9]><script src="https://www.thehouseontherock.com/wp-content/themes/houseonrock/pk/lib/html5shiv/html5shiv.js"></script><![endif]--><!--[if lt IE 9]><script src="https://www.thehouseontherock.com/wp-content/themes/houseonrock/pk/lib/selectivizr/selectivizr.min.js"></script><![endif]--><!--[if lt IE 9]><script src="https://www.thehouseontherock.com/wp-content/themes/houseonrock/pk/lib/respond/respond.js"></script><![endif]-->	
+<!--[if lt IE 9]><script src="https://www.thehouseontherock.com/wp-content/themes/houseonrock/pk/lib/html5shiv/html5shiv.js"></script><![endif]--><!--[if lt IE 9]><script src="https://www.thehouseontherock.com/wp-content/themes/houseonrock/pk/lib/selectivizr/selectivizr.min.js"></script><![endif]--><!--[if lt IE 9]><script src="https://www.thehouseontherock.com/wp-content/themes/houseonrock/pk/lib/respond/respond.js"></script><![endif]-->	<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a101680a8f82a1ca',t:'MTc4MjE5NTgzMQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><iframe height="1" width="1" style="position: absolute; top: 0px; left: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial; visibility: hidden;"></iframe>
 </body></html>
